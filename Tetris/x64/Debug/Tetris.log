@@ -1,0 +1,13 @@
+﻿  Source v1.2.cpp
+c:\users\sanjay\source\repos\tetris\tetris\source v1.2.cpp(375): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sanjay\source\repos\tetris\tetris\source v1.2.cpp(399): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sanjay\source\repos\tetris\tetris\source v1.2.cpp(408): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sanjay\source\repos\tetris\tetris\source v1.2.cpp(420): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sanjay\source\repos\tetris\tetris\source v1.2.cpp(429): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sanjay\source\repos\tetris\tetris\source v1.2.cpp(603): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sanjay\source\repos\tetris\tetris\source v1.2.cpp(636): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sanjay\source\repos\tetris\tetris\source v1.2.cpp(646): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sanjay\source\repos\tetris\tetris\source v1.2.cpp(659): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sanjay\source\repos\tetris\tetris\source v1.2.cpp(669): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\sanjay\source\repos\tetris\tetris\source v1.2.cpp(882): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Tetris.vcxproj -> C:\Users\SANJAY\source\repos\Tetris\x64\Debug\Tetris.exe
